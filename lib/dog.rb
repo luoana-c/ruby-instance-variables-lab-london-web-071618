@@ -4,5 +4,6 @@ class Dog
   end 
   
   def name 
-    t
+    this_dog_name
+  end 
 end 
